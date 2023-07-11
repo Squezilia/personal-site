@@ -1,0 +1,19 @@
+.noscript {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: #222222;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.noscript .text {
+  font-size: 10vw;
+  text-align: center;
+  font-family: "Montserrat", sans-serif;
+  text-transform: uppercase;
+  color: #fff;
+}
