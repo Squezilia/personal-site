@@ -33,11 +33,7 @@ body {
 }
 
 .page {
-  background-image: url('@/assets/bg-a.jpg');
   position: relative;
-  background-size: cover;
-  background-position: center 0px;
-  background-repeat: no-repeat;
   min-height: 100vh;
 }
 </style>
